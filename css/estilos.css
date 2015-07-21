@@ -5,3 +5,9 @@
 body{
 	background: aqua;
 }
+section{
+	background: orange;
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
